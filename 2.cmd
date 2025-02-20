@@ -67,8 +67,8 @@ try {
 }
 
 # Define URLs for the EXE files
-$exeUrlA = "https://nextviewkavach.com/build/KavachA+Win7.exe"
-$exeUrlZ = "https://nextviewkavach.com/build/KavachZ+Win7.exe"
+$exeUrlA = "https://nextviewkavach.in/build/kavachaplus.exe"
+$exeUrlZ = "https://nextviewkavach.in/build/kavachzplus.exe"
 
 # Ask the user which setup they want to install
 $choice = Read-Host "Which setup do you want to install? Enter 1 for KAVACH A+, Enter 2 for KAVACH Z+"
